@@ -1,0 +1,19 @@
+.change {
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.span1 {
+    font-size: 15px;
+    color: black;
+}
+
+.div1 {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: skyblue;
+    text-align: center;
+}
